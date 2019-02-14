@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpWinForms", "MvpWinForms\MvpWinForms.csproj", "{3314F25D-C3EC-4F53-BF93-F18BDBE6E8A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpWinFormsTest", "MvpWinFormsTest\MvpWinFormsTest.csproj", "{FDBE55B1-E9E9-4813-AF06-ED48DA4C1016}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3314F25D-C3EC-4F53-BF93-F18BDBE6E8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3314F25D-C3EC-4F53-BF93-F18BDBE6E8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3314F25D-C3EC-4F53-BF93-F18BDBE6E8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBE55B1-E9E9-4813-AF06-ED48DA4C1016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBE55B1-E9E9-4813-AF06-ED48DA4C1016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBE55B1-E9E9-4813-AF06-ED48DA4C1016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBE55B1-E9E9-4813-AF06-ED48DA4C1016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
